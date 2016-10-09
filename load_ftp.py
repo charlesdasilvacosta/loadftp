@@ -33,7 +33,6 @@ if not os.path.exists("data"):
 
 try:
 	connect = FTP(hote, ident, mdp) 
-
 	downloadFile(connect,"./")
 	print "\nDownload finished\nDisconnection from the server"
 	connect.quit() 
