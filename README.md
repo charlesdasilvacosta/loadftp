@@ -7,6 +7,7 @@ The files are placed in a directory "data".
 
 ###Getting Started
 
+
 To run, in the terminal:
 
 <pre><code>python load_ftp.py</code></pre>
